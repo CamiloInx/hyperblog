@@ -1,9 +1,6 @@
 body
 {
     color: #333333;
-<<<<<<< HEAD
-    font-family: Courier, Helvetica, sans-serif;
-=======
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -30,5 +27,4 @@ body
    padding: 0 0 0 1em; 
    font-weight: normal;
    font-size: 0.8em;
->>>>>>> cabecera
 }
